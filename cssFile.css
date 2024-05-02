@@ -1,0 +1,18 @@
+body { background : lightgreen; } 
+h2{color: white; background : blue ;  text-align : center; }
+
+h3{ont-size: medium; font-style: normal;  font-weight: normal;}
+p{ont-size: large; font-style: oblique;  font-weight: bold;}
+
+ul{ background: white; padding: 6px }
+li { text-decoration: none; padding: 5px 10px;
+ display:inline-block; width: 18%; height:90%;} 
+li:hover{background: gray; color: white}
+li.dropdown {position: relative; display: inline-block;}
+{position: absolute; top: 40px; left: 10px}
+
+table{ table-layout: auto; width: 80%; border-collapse: separate;
+border-spacing: 5px 10px; border: 2px solid blue;}
+td{ text-align: center;border: 1px dotted red;}
+tr:first-child {background: gray;}
+.c4 {vertical-align: top;}
